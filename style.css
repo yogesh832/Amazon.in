@@ -194,7 +194,7 @@ a:hover{
     height: 380px;
     justify-content: center;
     align-items: flex-end;
-    background-image: url(./img/hero_image.jpg);
+    background-image: url(./hero_image.jpg);
 background-size: cover;
 }
 
